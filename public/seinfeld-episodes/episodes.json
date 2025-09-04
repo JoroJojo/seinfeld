@@ -1,0 +1,62 @@
+{
+    "Season 2": {
+        "Episode 3": {
+            "Title": "The Jacket",
+            "Scenes": [
+                "seinfeld-episodes/clips/the-jacket-fabulous-s2ep3.mp4"
+            ]
+        },
+        "Episode 10": {
+            "Title": "The Baby Shower",
+            "Scenes": [
+                "seinfeld-episodes/clips/the-baby-shower-cable-scene-s2ep10.mp4"
+            ]
+        }
+    },
+    "Season 3": {
+        "Episode 2": {
+            "Title": "The Truth",
+            "Scenes": [
+                "seinfeld-episodes/clips/the-truth-s3e2.mp4"
+            ]
+        }
+    },
+    "Season 4": {
+        "Episode 22": {
+            "Title": "The Handicap Spot",
+            "Scenes": [
+                "seinfeld-episodes/clips/the-handicap-spot-s4e22.mp4"
+            ]
+        },
+        "Episode 17": {
+            "Title": "The Outing",
+            "Scenes": [
+                "seinfeld-episodes/clips/the-outing-s4e17.mp4"
+            ]
+        }
+    },
+    "Season 5": {
+        "Episode 22": {
+            "Title": "The Stall",
+            "Scenes": [
+                "seinfeld-episodes/clips/the-stall-s5e12.mp4"
+            ]
+        }
+    },
+    "Season 7": {
+        "Episode 23": {
+            "Title": "The Wait Out",
+            "Scenes": [
+                "seinfeld-episodes/clips/the-wait-out-s7e23.mp4"
+            ]
+        }
+    },
+    "Season 8": {
+        "Episode 12": {
+            "Title": "The Money",
+            "Scenes": [
+                "seinfeld-episodes/clips/the-money-s8e12.mp4"
+            ]
+        }
+    }
+}
